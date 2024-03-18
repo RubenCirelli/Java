@@ -1,10 +1,12 @@
 package it.develhope.classesAndObjects;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
-public class Animale {
+public class Forma {
 
-    public String toString() {
-        return "Un' animale fa il verso";
+    public int calcoloArea(int a, int b) {
+        return (a+b)*2;
     }
+
+
 }
 
